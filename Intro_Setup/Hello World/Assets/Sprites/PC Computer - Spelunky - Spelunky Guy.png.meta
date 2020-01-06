@@ -1,0 +1,3173 @@
+fileFormatVersion: 2
+guid: 6cc857aad16c041d2bd3941c5435fcb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3506322537788916390
+    second: PC Computer - Spelunky - Spelunky Guy_0
+  - first:
+      213: 594217989069630837
+    second: PC Computer - Spelunky - Spelunky Guy_1
+  - first:
+      213: 5822410196395989045
+    second: PC Computer - Spelunky - Spelunky Guy_2
+  - first:
+      213: -2637229954346978987
+    second: PC Computer - Spelunky - Spelunky Guy_3
+  - first:
+      213: -2003622266161785439
+    second: PC Computer - Spelunky - Spelunky Guy_4
+  - first:
+      213: -58610435770809340
+    second: PC Computer - Spelunky - Spelunky Guy_5
+  - first:
+      213: -4871163214806251787
+    second: PC Computer - Spelunky - Spelunky Guy_6
+  - first:
+      213: -6125990406868486950
+    second: PC Computer - Spelunky - Spelunky Guy_7
+  - first:
+      213: 6963842803139245343
+    second: PC Computer - Spelunky - Spelunky Guy_8
+  - first:
+      213: -2295245652570449416
+    second: PC Computer - Spelunky - Spelunky Guy_9
+  - first:
+      213: 6664076802519764286
+    second: PC Computer - Spelunky - Spelunky Guy_10
+  - first:
+      213: 1961711509741137142
+    second: PC Computer - Spelunky - Spelunky Guy_11
+  - first:
+      213: -1915786981006739976
+    second: PC Computer - Spelunky - Spelunky Guy_12
+  - first:
+      213: -6447900360268114929
+    second: PC Computer - Spelunky - Spelunky Guy_13
+  - first:
+      213: -6285780223972395736
+    second: PC Computer - Spelunky - Spelunky Guy_14
+  - first:
+      213: 4441846175077964986
+    second: PC Computer - Spelunky - Spelunky Guy_15
+  - first:
+      213: 8662947481327969733
+    second: PC Computer - Spelunky - Spelunky Guy_16
+  - first:
+      213: -6381721705168015953
+    second: PC Computer - Spelunky - Spelunky Guy_17
+  - first:
+      213: -436055189161280810
+    second: PC Computer - Spelunky - Spelunky Guy_18
+  - first:
+      213: -8166686905636456699
+    second: PC Computer - Spelunky - Spelunky Guy_19
+  - first:
+      213: 8875604219598960303
+    second: PC Computer - Spelunky - Spelunky Guy_20
+  - first:
+      213: -703055888398874989
+    second: PC Computer - Spelunky - Spelunky Guy_21
+  - first:
+      213: -1777910977477349959
+    second: PC Computer - Spelunky - Spelunky Guy_22
+  - first:
+      213: 5600303429045702800
+    second: PC Computer - Spelunky - Spelunky Guy_23
+  - first:
+      213: 565458839050807932
+    second: PC Computer - Spelunky - Spelunky Guy_24
+  - first:
+      213: 1457882068568848399
+    second: PC Computer - Spelunky - Spelunky Guy_25
+  - first:
+      213: -9151534556172179694
+    second: PC Computer - Spelunky - Spelunky Guy_26
+  - first:
+      213: 4506427061843891364
+    second: PC Computer - Spelunky - Spelunky Guy_27
+  - first:
+      213: -2539446392750453189
+    second: PC Computer - Spelunky - Spelunky Guy_28
+  - first:
+      213: -9209689739857568700
+    second: PC Computer - Spelunky - Spelunky Guy_29
+  - first:
+      213: 5087583129632283033
+    second: PC Computer - Spelunky - Spelunky Guy_30
+  - first:
+      213: -8074134313608311857
+    second: PC Computer - Spelunky - Spelunky Guy_31
+  - first:
+      213: -9018200042085701129
+    second: PC Computer - Spelunky - Spelunky Guy_32
+  - first:
+      213: -4374862083572727988
+    second: PC Computer - Spelunky - Spelunky Guy_33
+  - first:
+      213: -2197332291295651506
+    second: PC Computer - Spelunky - Spelunky Guy_34
+  - first:
+      213: 2246902015342300250
+    second: PC Computer - Spelunky - Spelunky Guy_35
+  - first:
+      213: -3329728022639580120
+    second: PC Computer - Spelunky - Spelunky Guy_36
+  - first:
+      213: 1293273896910082592
+    second: PC Computer - Spelunky - Spelunky Guy_37
+  - first:
+      213: -6591275972968112618
+    second: PC Computer - Spelunky - Spelunky Guy_38
+  - first:
+      213: -5207357507582778721
+    second: PC Computer - Spelunky - Spelunky Guy_39
+  - first:
+      213: 2016316862531062638
+    second: PC Computer - Spelunky - Spelunky Guy_40
+  - first:
+      213: 6215981648917941811
+    second: PC Computer - Spelunky - Spelunky Guy_41
+  - first:
+      213: 1129658693166206020
+    second: PC Computer - Spelunky - Spelunky Guy_42
+  - first:
+      213: -1297419834180153977
+    second: PC Computer - Spelunky - Spelunky Guy_43
+  - first:
+      213: -8638584149348914082
+    second: PC Computer - Spelunky - Spelunky Guy_44
+  - first:
+      213: -3494756250441927897
+    second: PC Computer - Spelunky - Spelunky Guy_45
+  - first:
+      213: 3857421925841785357
+    second: PC Computer - Spelunky - Spelunky Guy_46
+  - first:
+      213: 446777728164296428
+    second: PC Computer - Spelunky - Spelunky Guy_47
+  - first:
+      213: -1314850088933098837
+    second: PC Computer - Spelunky - Spelunky Guy_48
+  - first:
+      213: -4087184852943543453
+    second: PC Computer - Spelunky - Spelunky Guy_49
+  - first:
+      213: 6153020682901452044
+    second: PC Computer - Spelunky - Spelunky Guy_50
+  - first:
+      213: 1597041678525155200
+    second: PC Computer - Spelunky - Spelunky Guy_51
+  - first:
+      213: -8690951967426994936
+    second: PC Computer - Spelunky - Spelunky Guy_52
+  - first:
+      213: -3879957404144294520
+    second: PC Computer - Spelunky - Spelunky Guy_53
+  - first:
+      213: -3262128275740933703
+    second: PC Computer - Spelunky - Spelunky Guy_54
+  - first:
+      213: 790969386651523627
+    second: PC Computer - Spelunky - Spelunky Guy_55
+  - first:
+      213: 944065326023987498
+    second: PC Computer - Spelunky - Spelunky Guy_56
+  - first:
+      213: 859443373751581134
+    second: PC Computer - Spelunky - Spelunky Guy_57
+  - first:
+      213: -1479379540532820535
+    second: PC Computer - Spelunky - Spelunky Guy_58
+  - first:
+      213: 4216093033392227708
+    second: PC Computer - Spelunky - Spelunky Guy_59
+  - first:
+      213: 3266455995403919168
+    second: PC Computer - Spelunky - Spelunky Guy_60
+  - first:
+      213: 4944379899182183991
+    second: PC Computer - Spelunky - Spelunky Guy_61
+  - first:
+      213: -3207941502062880465
+    second: PC Computer - Spelunky - Spelunky Guy_62
+  - first:
+      213: -3746607084973068233
+    second: PC Computer - Spelunky - Spelunky Guy_63
+  - first:
+      213: -2964065082169043873
+    second: PC Computer - Spelunky - Spelunky Guy_64
+  - first:
+      213: 6062441426295986547
+    second: PC Computer - Spelunky - Spelunky Guy_65
+  - first:
+      213: -9025940945833225954
+    second: PC Computer - Spelunky - Spelunky Guy_66
+  - first:
+      213: -8274760256748440260
+    second: PC Computer - Spelunky - Spelunky Guy_67
+  - first:
+      213: -1591722363967967164
+    second: PC Computer - Spelunky - Spelunky Guy_68
+  - first:
+      213: 4084566851663543963
+    second: PC Computer - Spelunky - Spelunky Guy_69
+  - first:
+      213: -5350703027146284022
+    second: PC Computer - Spelunky - Spelunky Guy_70
+  - first:
+      213: 4365280460793779110
+    second: PC Computer - Spelunky - Spelunky Guy_71
+  - first:
+      213: -9159793016535373781
+    second: PC Computer - Spelunky - Spelunky Guy_72
+  - first:
+      213: -7104392493615686537
+    second: PC Computer - Spelunky - Spelunky Guy_73
+  - first:
+      213: -6440087532942509625
+    second: PC Computer - Spelunky - Spelunky Guy_74
+  - first:
+      213: 3590209752894754449
+    second: PC Computer - Spelunky - Spelunky Guy_75
+  - first:
+      213: 3680748873044882511
+    second: PC Computer - Spelunky - Spelunky Guy_76
+  - first:
+      213: 2399149648070252368
+    second: PC Computer - Spelunky - Spelunky Guy_77
+  - first:
+      213: 2276773813892880618
+    second: PC Computer - Spelunky - Spelunky Guy_78
+  - first:
+      213: 5181696156059835186
+    second: PC Computer - Spelunky - Spelunky Guy_79
+  - first:
+      213: 2306602400223995602
+    second: PC Computer - Spelunky - Spelunky Guy_80
+  - first:
+      213: -5698643574411090704
+    second: PC Computer - Spelunky - Spelunky Guy_81
+  - first:
+      213: 8943136960289689594
+    second: PC Computer - Spelunky - Spelunky Guy_82
+  - first:
+      213: -7298530844557948654
+    second: PC Computer - Spelunky - Spelunky Guy_83
+  - first:
+      213: 5739237879724015185
+    second: PC Computer - Spelunky - Spelunky Guy_84
+  - first:
+      213: 8858629921457819648
+    second: PC Computer - Spelunky - Spelunky Guy_85
+  - first:
+      213: 5817147691780527290
+    second: PC Computer - Spelunky - Spelunky Guy_86
+  - first:
+      213: -1911473126522580870
+    second: PC Computer - Spelunky - Spelunky Guy_87
+  - first:
+      213: 4673714554918991291
+    second: PC Computer - Spelunky - Spelunky Guy_88
+  - first:
+      213: 6177152369677288134
+    second: PC Computer - Spelunky - Spelunky Guy_89
+  - first:
+      213: -3136850648068783736
+    second: PC Computer - Spelunky - Spelunky Guy_90
+  - first:
+      213: 3330544855738676207
+    second: PC Computer - Spelunky - Spelunky Guy_91
+  - first:
+      213: -6254077827202615390
+    second: PC Computer - Spelunky - Spelunky Guy_92
+  - first:
+      213: 788956475618284711
+    second: PC Computer - Spelunky - Spelunky Guy_93
+  - first:
+      213: 1041228442191824906
+    second: PC Computer - Spelunky - Spelunky Guy_94
+  - first:
+      213: 602981844476924484
+    second: PC Computer - Spelunky - Spelunky Guy_95
+  - first:
+      213: -7302475769284730635
+    second: PC Computer - Spelunky - Spelunky Guy_96
+  - first:
+      213: 683265176046751256
+    second: PC Computer - Spelunky - Spelunky Guy_97
+  - first:
+      213: 4535983018431606779
+    second: PC Computer - Spelunky - Spelunky Guy_98
+  - first:
+      213: 6854593221466089788
+    second: PC Computer - Spelunky - Spelunky Guy_99
+  - first:
+      213: 8271797375729378371
+    second: PC Computer - Spelunky - Spelunky Guy_100
+  - first:
+      213: 6337059079402902256
+    second: PC Computer - Spelunky - Spelunky Guy_101
+  - first:
+      213: -4214326329309293735
+    second: PC Computer - Spelunky - Spelunky Guy_102
+  - first:
+      213: -5780433785207612882
+    second: PC Computer - Spelunky - Spelunky Guy_103
+  - first:
+      213: 4504197775641607143
+    second: PC Computer - Spelunky - Spelunky Guy_104
+  - first:
+      213: -5856362388697193327
+    second: PC Computer - Spelunky - Spelunky Guy_105
+  - first:
+      213: 4765113009672677352
+    second: PC Computer - Spelunky - Spelunky Guy_106
+  - first:
+      213: 6154252501020853597
+    second: PC Computer - Spelunky - Spelunky Guy_107
+  - first:
+      213: 739855908702919809
+    second: PC Computer - Spelunky - Spelunky Guy_108
+  - first:
+      213: 3715256836824640048
+    second: PC Computer - Spelunky - Spelunky Guy_109
+  - first:
+      213: 5885761648362225082
+    second: PC Computer - Spelunky - Spelunky Guy_110
+  - first:
+      213: -1775813312453913061
+    second: PC Computer - Spelunky - Spelunky Guy_111
+  - first:
+      213: -6997016220912399033
+    second: PC Computer - Spelunky - Spelunky Guy_112
+  - first:
+      213: 2167333292056446926
+    second: PC Computer - Spelunky - Spelunky Guy_113
+  - first:
+      213: -2800843744394000492
+    second: PC Computer - Spelunky - Spelunky Guy_114
+  - first:
+      213: -1840281929747882851
+    second: PC Computer - Spelunky - Spelunky Guy_115
+  - first:
+      213: 5112721856523878090
+    second: PC Computer - Spelunky - Spelunky Guy_116
+  - first:
+      213: 7693849365314851974
+    second: PC Computer - Spelunky - Spelunky Guy_117
+  - first:
+      213: -5454847474661432852
+    second: PC Computer - Spelunky - Spelunky Guy_118
+  - first:
+      213: -841314019464667765
+    second: PC Computer - Spelunky - Spelunky Guy_119
+  - first:
+      213: 711428845460186216
+    second: PC Computer - Spelunky - Spelunky Guy_120
+  - first:
+      213: -826200205035017785
+    second: PC Computer - Spelunky - Spelunky Guy_121
+  - first:
+      213: -1060632218403993152
+    second: PC Computer - Spelunky - Spelunky Guy_122
+  - first:
+      213: -8019806522930393170
+    second: PC Computer - Spelunky - Spelunky Guy_123
+  - first:
+      213: 5518142976761835757
+    second: PC Computer - Spelunky - Spelunky Guy_124
+  - first:
+      213: 8968262014021609232
+    second: PC Computer - Spelunky - Spelunky Guy_125
+  - first:
+      213: 4918168012965927658
+    second: PC Computer - Spelunky - Spelunky Guy_126
+  - first:
+      213: 3309301864989693211
+    second: PC Computer - Spelunky - Spelunky Guy_127
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 950
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de295610d9a1144468baf316f41c2900
+      internalID: 3506322537788916390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 950
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bb8c4538ceb41708846476de952efd
+      internalID: 594217989069630837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 950
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1ee3f4d8ff141b4902ac57afbe0e90
+      internalID: 5822410196395989045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 950
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c20ba223d044953967cfcdd415291e
+      internalID: -2637229954346978987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 950
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c7b1a44c914445a893eea3a65f5906
+      internalID: -2003622266161785439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 950
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91a9d33593914f2db0c3aec67c66211
+      internalID: -58610435770809340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_6
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 950
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25befbe92b2d5493e885b7f2b1bc9f55
+      internalID: -4871163214806251787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_7
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 950
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ef6542040d344c58daf082ad5662f5
+      internalID: -6125990406868486950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_8
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 950
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e452b180163614faaa47e430c1398f98
+      internalID: 6963842803139245343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_9
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 950
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93945487de4a5476e90af34647fe7f09
+      internalID: -2295245652570449416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 870
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9ccb4a60852494bbd33a0cc1a6dc91
+      internalID: 6664076802519764286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 870
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31869a26232444258937e080528b058f
+      internalID: 1961711509741137142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 870
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d644fbf4d3945fbbc57c63f0175bbf
+      internalID: -1915786981006739976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 870
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6a4ddc0758147bbb7ea19aa8ba1fbe
+      internalID: -6447900360268114929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 870
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9226292629b84b8c9faa0783e501f72
+      internalID: -6285780223972395736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_15
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 870
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8071ebe9d0f24087be517c2c238b51f
+      internalID: 4441846175077964986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_16
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 870
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7803d62839fbd479085a5e916082efe0
+      internalID: 8662947481327969733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_17
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 870
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a754b984d284ad7800dddb9b92baa6
+      internalID: -6381721705168015953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_18
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 870
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0958cecf024a949c392cb15ed625f87c
+      internalID: -436055189161280810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_19
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 870
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc85ab794661486e91ee9f17dfb77af
+      internalID: -8166686905636456699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_20
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 870
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2013fccaada4ec7a5c236fcdb55893
+      internalID: 8875604219598960303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_21
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 870
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35df82cb4d7b04c3c99f99f50f04cb97
+      internalID: -703055888398874989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 790
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1559563564947438b95981e6142b3fcb
+      internalID: -1777910977477349959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 790
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d168dcb6901a47d3bd2c9a0fe620191
+      internalID: 5600303429045702800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_24
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 798
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172fcc0ff59ee4c03a0add3317414c72
+      internalID: 565458839050807932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_25
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 798
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f2f062f632544f4baa0e65c1ad6c1f
+      internalID: 1457882068568848399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 790
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090737487fb7f4edaa6d8c0710f8985a
+      internalID: -9151534556172179694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_27
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 790
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd4be8d170fb4491a073b06204a5b96
+      internalID: 4506427061843891364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_28
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 791
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eba10d661a6a4436aac43cf418bc4cb
+      internalID: -2539446392750453189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_29
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 790
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd9077b4aac44c958e45e22cb85a768
+      internalID: -9209689739857568700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_30
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 790
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9264ad5d3a0dc40ec842cacd9e7e6b46
+      internalID: 5087583129632283033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_31
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 787
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b08320dd879f41788370edf5ca97c4a
+      internalID: -8074134313608311857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_32
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 790
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d17dffa7b51e46428c2f59a6df2afcb
+      internalID: -9018200042085701129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 711
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea3ee551a9b04e59bd621b096765c6d
+      internalID: -4374862083572727988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_34
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 711
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8583f274abd5f4da6b138043e36cabcd
+      internalID: -2197332291295651506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 710
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78519ca00fb54b48830fb427fbe47e0
+      internalID: 2246902015342300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_36
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 710
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd10b7d6b074f4d5395cd7e557cd3f65
+      internalID: -3329728022639580120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_37
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 710
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac949fe16c3e4450a75c1e29521a1f4
+      internalID: 1293273896910082592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_38
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 710
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a90684c7c854bdcb88b5da53fde42f
+      internalID: -6591275972968112618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_39
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 710
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf0d8af2ad964eb584ad14e2393c0f5
+      internalID: -5207357507582778721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_40
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 710
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d034e495f2c10425b824b072d4de2d43
+      internalID: 2016316862531062638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_41
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 702
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226395a59a0d44b2083edf50425fd2f0
+      internalID: 6215981648917941811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_42
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 704
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b343fc0feff4f4b5688a92ba52971851
+      internalID: 1129658693166206020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_43
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 707
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1898b649bc3464438bde6ece9850957f
+      internalID: -1297419834180153977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_44
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 711
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61f5cdbc14234aa5b38ac6ae98166a1
+      internalID: -8638584149348914082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 630
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b068cc3c32cb040f0ab4172852d74dd0
+      internalID: -3494756250441927897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_46
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 630
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a9ed846282549e5986ef0f6a577734
+      internalID: 3857421925841785357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 629
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a356cb6e8a09d474d9aab4ec626788af
+      internalID: 446777728164296428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_48
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 629
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5474fdf672cc45439d4fed139741c99
+      internalID: -1314850088933098837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_49
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 630
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0486339180048ba875f8cc2b10d185
+      internalID: -4087184852943543453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_50
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 630
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0689b3d4a616d436db096d4d878f3e7e
+      internalID: 6153020682901452044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_51
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 630
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8153c89a2855940319dff6c496bf5888
+      internalID: 1597041678525155200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_52
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 630
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628b7c08e8cf14d988f7a9ee853d6271
+      internalID: -8690951967426994936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_53
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 630
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5a3fedb2f134838b008b74544350d6
+      internalID: -3879957404144294520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_54
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 630
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60cc8a301cc44d8a86095e2f84f70df
+      internalID: -3262128275740933703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_55
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 630
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e597fd2f32f9424fab0ef70b871f308
+      internalID: 790969386651523627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_56
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 551
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b81bb6f8f849461e83920f9488c4241
+      internalID: 944065326023987498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_57
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 550
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271a84c65a77149fe92a268548b5ef54
+      internalID: 859443373751581134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_58
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 550
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea0c2c3e388243edaadfe641aba06bd
+      internalID: -1479379540532820535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_59
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 551
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f395890952d294840984172aee98cd4a
+      internalID: 4216093033392227708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_60
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 550
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19016cb23f2d4075a65433bc541424a
+      internalID: 3266455995403919168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_61
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 550
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6178dc9c8e724037b217f5e171f9837
+      internalID: 4944379899182183991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_62
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 551
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9905a48a49104be0a93559921feddbb
+      internalID: -3207941502062880465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_63
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 550
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa56e3c0a6d14ac19a3a3272f8edaae
+      internalID: -3746607084973068233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_64
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 550
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb99b33507244ecc96852a101a514b4
+      internalID: -2964065082169043873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_65
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 549
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe945583db12e4f1ab3c1e808cf2c5b8
+      internalID: 6062441426295986547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_66
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 549
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cab3f33e54a34e0e9ab9ed8797f21a5
+      internalID: -9025940945833225954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_67
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 550
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdc927d2629446529b00791e172f488
+      internalID: -8274760256748440260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_68
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 470
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ba83556273f4a4eb3ec5523f05e542
+      internalID: -1591722363967967164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_69
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 469
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189886f810da64dfab9e2697fb383dca
+      internalID: 4084566851663543963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_70
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 469
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504ee5d5056d446d28fcf49092e8c647
+      internalID: -5350703027146284022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_71
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 470
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4feca328a26fa40d79ae84b5755a7c2a
+      internalID: 4365280460793779110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_72
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 469
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea86c97b329e4974bc4c060958f900c
+      internalID: -9159793016535373781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_73
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 469
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef852b05cbac47858959bee0a8ecc15
+      internalID: -7104392493615686537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_74
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 467
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b6ff0e6327948bebc55cd291b61a8a
+      internalID: -6440087532942509625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_75
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 468
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82a47bf00a3343d091c9fe86c562f61
+      internalID: 3590209752894754449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_76
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 468
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09960c35319e6417992ef5be0bb04ba5
+      internalID: 3680748873044882511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_77
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 468
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2641a03608c14ff4b3aaf63802ca5bd
+      internalID: 2399149648070252368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_78
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 468
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66f1bcafa96d426882436a616566b35
+      internalID: 2276773813892880618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_79
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 468
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d70448f6b7d441d95d6b5dc7ca0359
+      internalID: 5181696156059835186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_80
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 395
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dd5f2a0a6a44ae8bad31c8cd6d2752
+      internalID: 2306602400223995602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_81
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 394
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a25dd7522cd34712987cd251eba421b
+      internalID: -5698643574411090704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_82
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 390
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f6546ab52134c669b61bcd423501e4
+      internalID: 8943136960289689594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_83
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 390
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25df9f98b905a4c34b003c1f4be1b9d0
+      internalID: -7298530844557948654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_84
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 394
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec394f7983c64e3aba1f10999d01e3d
+      internalID: 5739237879724015185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_85
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 395
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf6fe785226e439b839c8c16895d4c0
+      internalID: 8858629921457819648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_86
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 394
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596f467e237e5435f82c291f315fef79
+      internalID: 5817147691780527290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_87
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 390
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfaba1c24836454493f62839f9b67fb
+      internalID: -1911473126522580870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_88
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 390
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9303a9570efa0441db58333759fe12f7
+      internalID: 4673714554918991291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_89
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 394
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b41d34f0728446579ed1f734badd7d4
+      internalID: 6177152369677288134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_90
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 310
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945a1c307baba4bae9b516e9641d0dbe
+      internalID: -3136850648068783736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_91
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 310
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f32d938cb7c499480dcf9e8a5f81c0
+      internalID: 3330544855738676207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_92
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 310
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a424e720ef734691b0de75a02dd9aa6
+      internalID: -6254077827202615390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_93
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 310
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37a243fe9aa14892b032705c2d5ad45
+      internalID: 788956475618284711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_94
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 310
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbff2c81e9bf4bf389ddb7fd9850654
+      internalID: 1041228442191824906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_95
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 310
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d34b065a52684d269d3d7ced523db26
+      internalID: 602981844476924484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_96
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 310
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3005144d3d204447bb63e331a2dc51e
+      internalID: -7302475769284730635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_97
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 310
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc7d02b71f0d41c9a8f7002339c013f
+      internalID: 683265176046751256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_98
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 228
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298406ba18ef64669947467d6ad13b6d
+      internalID: 4535983018431606779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_99
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 226
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8834361a72754b1eb2569d8e762c3e6
+      internalID: 6854593221466089788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_100
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 227
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff215bc664544e20a01091fa8378d28
+      internalID: 8271797375729378371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_101
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 226
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b0f967f25834445b6fa3b09e4b22ed
+      internalID: 6337059079402902256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_102
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 226
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6044ebf4efe544f2995c340750fad0b
+      internalID: -4214326329309293735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_103
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 227
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8812518735c9243e6a9de1de481a83b5
+      internalID: -5780433785207612882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_104
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 225
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adccc85fb20a4529ad666e7c2644e27
+      internalID: 4504197775641607143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_105
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 225
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b06323ecc914be59b1a7447eb0c5eb
+      internalID: -5856362388697193327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_106
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 226
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781a873c8ee074132ba4d30d8d7c4f48
+      internalID: 4765113009672677352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_107
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 227
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea987eba3e7a4360a3baac37c3988db
+      internalID: 6154252501020853597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_108
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 225
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bd2621068e24f67862b5679444cdd5
+      internalID: 739855908702919809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_109
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 225
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a24e5c2ad5f444bbdf435e141bd6cb
+      internalID: 3715256836824640048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_110
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 146
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a872e57f24f254dcdbbf38acbc69c8e5
+      internalID: 5885761648362225082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_111
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 145
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264f0d61a929b4f83923937e1ea30808
+      internalID: -1775813312453913061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_112
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 143
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e0346664b6c44a78a199da0da491f6
+      internalID: -6997016220912399033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_113
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 145
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe688bc683ea489ead5b93d330f9417
+      internalID: 2167333292056446926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_114
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 145
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d348e89ee7a154ddd8e6ea80b00b7cff
+      internalID: -2800843744394000492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_115
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 145
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e870fc4928bb144c7b5f0fd679b3fdee
+      internalID: -1840281929747882851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_116
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 143
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d962f43bcbb55488b825b9392266db46
+      internalID: 5112721856523878090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_117
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 141
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870062d2377894c778e08bc700ab2426
+      internalID: 7693849365314851974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_118
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 143
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e912d50f6c647c7bdbe012ccbf5912
+      internalID: -5454847474661432852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_119
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 143
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f46c795a7e44377a17cdb32c85a145
+      internalID: -841314019464667765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_120
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 86
+        width: 124
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d3f25e417149c998f1e8ae96819d4
+      internalID: 711428845460186216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_121
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db05451a8fabc4bee8138623a5399407
+      internalID: -826200205035017785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_122
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0342d5ffa9384c29adf49b31996ea06
+      internalID: -1060632218403993152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_123
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 74
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13e5a83860e44b00867c7b744010c1c
+      internalID: -8019806522930393170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_124
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 71
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9787b01f968654602b0608df770fe4a5
+      internalID: 5518142976761835757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_125
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 70
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00de17dc98e9f46388fbb87d60ba50a6
+      internalID: 8968262014021609232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_126
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 76
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1775173bca24a299ca5e000344c76a
+      internalID: 4918168012965927658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Spelunky - Spelunky Guy_127
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 67
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a9ceafcd12b4c1a8bf872e2c481bc9
+      internalID: 3309301864989693211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 10880a3a4490a4886b5a5aff6fb711e7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
